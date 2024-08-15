@@ -1,0 +1,1 @@
+./DRIVE_AV/test/images/8.png ./DRIVE_AV/test/vessel/8.png
